@@ -5,20 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Pontus Sundén</title>
     <style>
-      body { margin: 0;  background-color: rgb(244, 248, 248); color: rgb(36, 36, 36); font-family: sans-serif; }
-      .wrapper { display: flex; flex-direction: column; flex-wrap: wrap; height:100vh; justify-content: flex-start;}
-      .wrapper > * {margin: 0 auto;}
+      body { margin: 0;  background-color: white; color: rgb(36, 36, 36); font-family: sans-serif; }
+      .wrapper { display: flex; flex-direction: column; flex-wrap: nowrap; height:100vh; justify-content: flex-start;}
+      .wrapper > * { flex: 1 100%; margin: 0 auto; }
       h1 { font-weight: 300; }
       h2, h3, h4 { font-weight: normal; font-family: serif; }
-      p { line-height: 1.5em; color:rgb(66, 65, 65)   }
       .header { background-color: rgb(70, 46, 66); width: 100vw; text-align: center;}
-      .title {font-size: 5rem; color:white; font}
-      .main { height: 50vh; max-width: 40em; padding: 1rem; }
-      .footer { color: gray; }
+      h1.title {font-size: 5em; color:white; font}
+      .main { flex-grow: 2; max-width: 40em; padding: 1rem; }
+      .main h2 { font-size: 3em; }
+      .footer { color: gray; padding: 1rem; }
       .footer a:any-link { color: rgb(119, 119, 235); }
-      .main h2 { font-size: 3rem; }
-      p.quote { font-size: 2rem}
-      i.author { display: block; text-align: right; margin-top: 1em;}
+      p { line-height: 1.5em; color:rgb(66, 65, 65)   }
+      p.quote { font-size: 2em; }
+      i.author { display: block; text-align: right; margin-top: 1em; font-size: .9em; font-style:italic; color: gray;}
       
     </style>
   </head>
