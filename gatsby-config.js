@@ -26,12 +26,16 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/pontus`,
+            name: `DEV`,
+            url: `https://dev.to/pontus`,
           },
           {
             name: `Linkedin`,
             url: `https://www.linkedin.com/in/pontussunden`,
+          },
+          {
+            name: `Twitter`,
+            url: `https://twitter.com/pontus`,
           },
         ],
       },
