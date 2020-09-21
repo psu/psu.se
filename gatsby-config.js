@@ -27,6 +27,7 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
+      // Documentation here: https://www.gatsbyjs.com/plugins/@lekoarts/gatsby-theme-minimal-blog/
       options: {
         basePath: `/`,
         blogPath: `/blog`,
