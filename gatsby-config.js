@@ -61,6 +61,10 @@ module.exports = {
             name: `Linkedin`,
             url: `https://www.linkedin.com/in/pontussunden`,
           },
+          {
+            name: `Instagram`,
+            url: `https://www.instagram.com/pontussunden`,
+          },
         ],
       },
     },
