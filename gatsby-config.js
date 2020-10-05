@@ -50,19 +50,19 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `DEV`,
+            name: `Dv`,
             url: `https://dev.to/pontus`,
           },
           {
-            name: `Twitter`,
+            name: `Tw`,
             url: `https://twitter.com/pontus`,
           },
           {
-            name: `Linkedin`,
+            name: `Li`,
             url: `https://www.linkedin.com/in/pontussunden`,
           },
           {
-            name: `Instagram`,
+            name: `Ig`,
             url: `https://www.instagram.com/pontussunden`,
           },
         ],
