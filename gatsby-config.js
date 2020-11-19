@@ -9,11 +9,11 @@ module.exports = {
     // Used for the title template on pages other than the index site
     siteTitle: `Pontus Sundén`,
     // Default title of the page
-    siteTitleAlt: `Pontus Sundén - psu.se`,
+    siteTitleAlt: `Pontus Sundén - pontus.cc`,
     // Can be used for e.g. JSONLD
     siteHeadline: `Pontus Sundén`,
     // Will be used to generate absolute URLs for og:image etc.
-    siteUrl: `https://psu.se`,
+    siteUrl: `https://pontus.cc`,
     // Used for SEO
     siteDescription: `Personal blog and resumé for Pontus Sundén. A Communications professional with a passion for web development.`,
     // Will be set on the <html /> tag
@@ -62,7 +62,7 @@ module.exports = {
             url: `https://twitter.com/pontus`,
           },
           {
-            name: `Li`,
+            name: `In`,
             url: `https://www.linkedin.com/in/pontussunden`,
           },
           {
